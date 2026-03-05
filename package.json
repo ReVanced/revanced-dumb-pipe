@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "dev": "vercel dev"
+    },
+    "dependencies": {
+        "@types/node": "^25.3.3"
+    },
+    "devDependencies": {
+        "vercel": "^50.28.0"
+    }
+}
